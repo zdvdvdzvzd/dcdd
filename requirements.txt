@@ -1,0 +1,9 @@
+streamlit==1.36.0
+pandas==2.2.2
+python-dotenv==1.0.1
+watchdog==5.0.0
+plotly==5.22.0
+numpy==1.26.4
+openai==1.50.0
+pydantic==2.8.2
+openai
